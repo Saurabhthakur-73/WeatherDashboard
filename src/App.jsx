@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import './App.css'
 import search from './assets/icons/search.svg'
-import { useStateContext } from './context/Index'
-import { BackgroundLayout } from './components'
-import { WeatherCard } from './components/WeatherCard'
-import { MiniCard } from './components/MiniCard'
+import  useStateContext  from './context/Index'
+import BackgroundLayout  from './components'
+import  WeatherCard  from './components/WeatherCard'
+import  MiniCard  from './components/MiniCard'
 
 function App() {
 
