@@ -38,4 +38,4 @@ const BackgroundLayout = () => {
   )
 }
 
-export default BackgroundLayout
+export default BackgroundLayout;

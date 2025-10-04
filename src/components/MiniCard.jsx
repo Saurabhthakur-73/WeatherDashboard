@@ -44,4 +44,4 @@ const MiniCard = ({ time, temp, iconString }) => {
   )
 }
 
-export default MiniCard
+export default MiniCard;

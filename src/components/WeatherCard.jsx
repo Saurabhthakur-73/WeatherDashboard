@@ -72,4 +72,4 @@ const WeatherCard = ({
   )
 }
 
-export default WeatherCard
+export default WeatherCard;
