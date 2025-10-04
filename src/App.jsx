@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import search from './assets/icons/search.svg'
-import { useStateContext } from './Context'
+import { useStateContext } from './context/Index'
 import { BackgroundLayout, WeatherCard, MiniCard } from './Components'
 
 function App() {
